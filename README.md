@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yungjoshyyy&label=Profile%20views&color=0e75b6&style=flat" alt="yungjoshyyy" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**, Working with popular technologies such as ReactJs, Express and Mongoose
 
 - 📫 How to reach me **jmitch301@caledonian.ac.uk**
 
