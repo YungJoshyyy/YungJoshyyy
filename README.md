@@ -10,7 +10,14 @@
 |----------|--------------|----------|--------|
 |    ⭐   |     ⭐⭐    |  ⭐⭐⭐ |⭐⭐⭐⭐|
 
-<h2>Programm</h2>
+| Programming Languages | Frontend Development | Backend Development | Database | Other |
+|-----------------------|----------------------|---------------------|----------|-------|
+| JavaScript ⭐⭐⭐⭐ | HTML ⭐⭐⭐⭐     | Node.js ⭐⭐⭐     | MongoDB ⭐⭐⭐ | Android Studio ⭐⭐ |
+| Java ⭐⭐⭐          | CSS ⭐⭐⭐⭐      | Express.js ⭐⭐⭐  | MySQL ⭐⭐⭐ | Pandas ⭐⭐ |
+| C# ⭐⭐⭐            | Bootstrap ⭐⭐⭐⭐| Apache ⭐⭐        | SQLite ⭐⭐⭐ | Seaborn ⭐⭐ | 
+| Scala ⭐⭐           | React ⭐⭐⭐       |---------------------| Oracle ⭐⭐⭐ | Scikit-learn ⭐⭐ |
+| Python ⭐⭐          |----------------------|---------------------|----------------|--------------------|
+
 
 
 
