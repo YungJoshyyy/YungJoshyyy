@@ -16,8 +16,9 @@
 | Java ⭐⭐⭐          | CSS ⭐⭐⭐⭐      | Express.js ⭐⭐⭐  | MySQL ⭐⭐⭐ | Pandas ⭐⭐ |
 | C# ⭐⭐⭐            | Bootstrap ⭐⭐⭐⭐| Apache ⭐⭐        | SQLite ⭐⭐⭐ | Seaborn ⭐⭐ | 
 | Scala ⭐⭐           | React ⭐⭐⭐       |                      | Oracle ⭐⭐⭐ | Scikit-learn ⭐⭐ |
-| Python ⭐⭐          | Tailwind CSS ⭐⭐   |                      |                | Docker ⭐⭐ |
+| Python ⭐⭐          | Tailwind CSS ⭐⭐   |                      | Firebase ⭐⭐ | Docker ⭐⭐ |
 | | | | | Jenkins ⭐⭐ |
+| | | | | Kubernetes ⭐⭐ |
 
 
 
