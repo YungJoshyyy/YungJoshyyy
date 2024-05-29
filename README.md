@@ -12,11 +12,12 @@
 
 | Programming Languages | Frontend Development | Backend Development | Database | Other |
 |-----------------------|----------------------|---------------------|----------|-------|
-| JavaScript ⭐⭐⭐⭐ | HTML ⭐⭐⭐⭐     | Node.js ⭐⭐⭐     | MongoDB ⭐⭐⭐ | Android Studio ⭐⭐ |
+| JavaScript ⭐⭐⭐⭐ | HTML ⭐⭐⭐⭐     | Node.js ⭐⭐⭐     | MongoDB ⭐⭐⭐ | Git ⭐⭐⭐ |
 | Java ⭐⭐⭐          | CSS ⭐⭐⭐⭐      | Express.js ⭐⭐⭐  | MySQL ⭐⭐⭐ | Pandas ⭐⭐ |
 | C# ⭐⭐⭐            | Bootstrap ⭐⭐⭐⭐| Apache ⭐⭐        | SQLite ⭐⭐⭐ | Seaborn ⭐⭐ | 
 | Scala ⭐⭐           | React ⭐⭐⭐       |                      | Oracle ⭐⭐⭐ | Scikit-learn ⭐⭐ |
-| Python ⭐⭐          | Tailwind CSS ⭐⭐   |                      |                |                    |
+| Python ⭐⭐          | Tailwind CSS ⭐⭐   |                      |                | Docker ⭐⭐ |
+| | | | | Jenkins ⭐⭐ |
 
 
 
