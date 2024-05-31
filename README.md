@@ -17,7 +17,7 @@
 | C# ⭐⭐⭐            | Bootstrap ⭐⭐⭐⭐| Apache ⭐⭐        | SQLite ⭐⭐⭐ | Seaborn ⭐⭐ | 
 | Scala ⭐⭐           | React ⭐⭐⭐       |                      | Oracle ⭐⭐⭐ | Scikit-learn ⭐⭐ |
 | Python ⭐⭐          | Tailwind CSS ⭐⭐   |                      | Firebase ⭐ | Docker ⭐⭐ |
-| | | | | Jenkins ⭐⭐ |
+| | Figma ⭐⭐ | | | Jenkins ⭐⭐ |
 | | | | | Kubernetes ⭐⭐ |
 
 
